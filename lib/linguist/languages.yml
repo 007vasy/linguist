@@ -1336,6 +1336,7 @@ Cypher:
   extensions:
   - ".cyp"
   - ".cypher"
+  - ".cql"
   tm_scope: source.cypher
   ace_mode: text
 Cython:
