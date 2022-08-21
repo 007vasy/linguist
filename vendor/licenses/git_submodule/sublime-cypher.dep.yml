@@ -3,7 +3,7 @@ name: sublime-cypher
 version: 0232d8c12b10227f7a0061c39377132a02232d88
 type: git_submodule
 homepage: https://github.com/fredbenenson/sublime-cypher.git
-license: other
+license: apache-2.0
 licenses:
 - sources: LICENSE.txt
   text: |-
