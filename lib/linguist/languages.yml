@@ -1335,8 +1335,8 @@ Cypher:
   color: "#34c0eb"
   extensions:
   - ".cyp"
-  - ".cypher"
   - ".cql"
+  - ".cypher"
   tm_scope: source.cypher
   ace_mode: text
   language_id: 850806976
