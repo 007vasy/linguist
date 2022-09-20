@@ -706,7 +706,7 @@ C:
   - ".h"
   - ".idc"
   interpreters:
-  - tcc
+  - tccf
   tm_scope: source.c
   ace_mode: c_cpp
   codemirror_mode: clike
@@ -1349,7 +1349,6 @@ Cypher:
   color: "#34c0eb"
   extensions:
   - ".cyp"
-  - ".cql"
   - ".cypher"
   tm_scope: source.cypher
   ace_mode: text
