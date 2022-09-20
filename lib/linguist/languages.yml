@@ -706,7 +706,7 @@ C:
   - ".h"
   - ".idc"
   interpreters:
-  - tccf
+  - tcc
   tm_scope: source.c
   ace_mode: c_cpp
   codemirror_mode: clike
